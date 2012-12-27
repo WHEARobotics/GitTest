@@ -1,6 +1,6 @@
 
 public class HelloWorld {
-
+	Rod r = new Rod(1.0, 3.5);
 	/**
 	 * @param args
 	 */
